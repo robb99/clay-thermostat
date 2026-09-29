@@ -1,0 +1,5 @@
+# Home Assistant Configuration
+# Copy to config.yaml and fill in your values
+
+ha_url: "http://192.168.1.135:8123"
+ha_token: "your_long_lived_access_token_here"
